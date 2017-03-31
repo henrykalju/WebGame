@@ -35,3 +35,7 @@ header li {
 header nav {
 	float: center;
 }
+
+.current a {
+	color: rgb(255, 0, 0);
+}
