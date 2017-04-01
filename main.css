@@ -3,7 +3,12 @@ body {
 	font-size: 15px;
 	line-height: 1.5;
 	padding: 0;
+<<<<<<< HEAD
 	margin: 0;
+=======
+	margin: 3px;
+	margin-bottom: 50px;
+>>>>>>> origin/Henry
 	background-color: rgb(240, 240, 240);
 }
 
@@ -11,17 +16,40 @@ body {
 	font-size: 40px;
 }
 
+#screenbordertop {
+	background-color: #c6710b;
+	margin-top: -3px;
+	margin-bottom: -5px;
+	width: 100%;
+	height: 5px;
+	border: 3px solid #804000;
+
+}
+
 header {
 	background: rgb(210, 155, 70);
+<<<<<<< HEAD
 	padding: 10px;
 	height: 40px;
 	border: rgb(185, 140, 0) 5px solid;
 	border-top-width: 2px;
 	margin-top: 0;
+=======
+	padding: 10p;
+	width: 570px;
+	height: 40px;
+	border: rgb(185, 140, 0) 5px solid;
+	border-top-width: 2px;
+>>>>>>> origin/Henry
 	margin-left: 250px;
 	margin-right: 250px;
 	border-bottom-left-radius: 30px;
 	border-bottom-right-radius: 30px;
+<<<<<<< HEAD
+=======
+	position: fixed;
+	z-index: -1;
+>>>>>>> origin/Henry
 
 }
 
@@ -46,15 +74,36 @@ header nav {
 
 footer {
 	background: rgb(210, 155, 70);
+<<<<<<< HEAD
 	height: 40px;
 	margin-left: 400px;
 	margin-right: 400px;
 	border-top-left-radius: 30px;
 	border-top-right-radius: 30px;
+=======
+	height: 30px;
+	width: 450px;
+	margin-left: 300px;
+	margin-right: 400px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	position: fixed;
+	bottom: 0px;
+	margin-bottom: 0px;
+>>>>>>> origin/Henry
 }
 
 #copyright {
 	/*border: 1px solid #000;*/
+<<<<<<< HEAD
 	margin-left: 200px;
 
 }
+=======
+	margin-left: 310px;
+
+}
+.current a {
+	color: rgb(255, 0, 0);
+}
+>>>>>>> origin/Henry
